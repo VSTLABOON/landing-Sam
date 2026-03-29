@@ -325,19 +325,19 @@ export const colores = [
     id: 'guinda',
     name: 'Guinda',
     gradient: 'linear-gradient(135deg,#8B2450,#6B1E3A,#3D0F20)',
-    longDesc: `Escribe aquí sobre el color guinda y Samara.\n\nPor qué le gusta, dónde lo usa, qué le transmite...`,
+    longDesc: `El guinda es el color de la profundidad y la elegancia silenciosa. No necesita gritar para ser notado. Simboliza una fuerza interior inquebrantable, una lealtad profunda y una pasión que arde con calma. Resuena con esa parte de ti que es misteriosa, madura y profundamente magnética, dejando una huella imborrable en quien tiene el privilegio de conocerte de verdad.`,
   },
   {
     id: 'rosa',
     name: 'Rosa',
     gradient: 'linear-gradient(135deg,#FFCDE0,#F2A7C3,#E07AA0)',
-    longDesc: `Escribe aquí sobre el rosa y Samara.\n\nCómo lo incorpora en su vida, qué representa para ella...`,
+    longDesc: `Este tono representa la empatía pura, la delicadeza y el afecto incondicional. Es el color universal de las almas nobles que saben cuidar de los demás. Simboliza esa calidez natural que irradias sin darte cuenta, esa capacidad tan tuya para suavizar los días difíciles y hacer que el mundo se sienta como un lugar mucho más amable y seguro.`,
   },
   {
     id: 'azul',
     name: 'Azul Rey',
     gradient: 'linear-gradient(135deg,#2A5ACC,#1A3A8F,#0E205A)',
-    longDesc: `Escribe aquí sobre el azul rey y Samara.\n\nRopa, objetos, momentos en que lo has notado...`,
+    longDesc: `El azul rey es el símbolo supremo de la confianza, la sabiduría y la tranquilidad absoluta. Representa la inmensidad de un cielo nocturno profundo. Este color refleja esa paz mental que transmites cuando hablas y esa seguridad firme que te caracteriza. Es el espejo de un espíritu sereno, leal y en el que siempre, sin dudarlo, se puede confiar.`,
   },
 ]
 
